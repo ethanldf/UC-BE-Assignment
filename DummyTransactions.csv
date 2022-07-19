@@ -1,0 +1,162 @@
+Transaction Date,Supplier name,Item description,Supplier country,Item price/Unit (optional),Transaction amount,Transaction ID,Supplier city (optional),Currency,Item ID,Business Facility,General Ledger Act
+1/1/21,BHP,Thermal coal,Australia,0,15280,1,Newcastle,AUD,1,Farm 1,Fuel purchases
+1/1/21,Shell,Petrol,Singapore,0,3654,2,Singapore,SGD,1,Distribution 1,Fuel purchases
+6/1/21,Fruit Party Pte. Ltd.,Durian,Malaysia,0,7387,3,,SGD,1,Food manufacturing 1,COGS
+10/1/21,Seafood Supplies Pte. Ltd.,Squid tubes,Thailand,0,446,4,,SGD,1,Food manufacturing 1,COGS
+10/1/21,Seafood Supplies Pte. Ltd.,Squid tubes,Thailand,0,3177,5,,SGD,1,Food manufacturing 1,COGS
+14/1/21,SP Group,Power invoice,Singapore,0,2049,6,Singapore,SGD,1,Primary production 1,Electricity purchases
+14/1/21,SP Group,Power invoice,Singapore,0,1036,7,Singapore,SGD,1,Farm 1,Electricity purchases
+15/1/21,Meat distributors Pte. Ltd.,Lamb,Australia,0,5956,8,,SGD,1,Food manufacturing 1,COGS
+16/1/21,Union Gas,LPG,Singapore,0,35168,9,Singapore,SGD,1,Warehouse 1,Fuel purchases
+19/1/21,Dairy Farm Pte. Ltd.,Panko bread crumbs,Japan,0,8839,10,,SGD,1,Food manufacturing 1,COGS
+23/1/21,Mexefeeds Pte. Ltd.,Guacamole,Singapore,0,5249,11,,SGD,1,Food manufacturing 1,COGS
+28/1/21,Meat distributors Pte. Ltd.,Beef,Brazil,0,1589,12,,SGD,1,Food manufacturing 1,COGS
+29/1/21,Meat distributors Pte. Ltd.,Chicken drumsticks,Malaysia,0,4868,13,,SGD,1,Food manufacturing 1,COGS
+2/2/21,Meat distributors Pte. Ltd.,Lamb backstrap,Australia,0,2181,14,,SGD,1,Food manufacturing 1,COGS
+3/2/21,Seafood Supplies Pte. Ltd.,Basa fillets,Vietnam,0,623,15,,SGD,1,Food manufacturing 1,COGS
+4/2/21,Cheese Sellers Pte. Ltd.,Gruyere cheese,France,0,3475,16,,SGD,1,Food manufacturing 1,COGS
+9/2/21,Petronas,Natural gas,Malaysia,0,24937,17,Kuala Lumpur,MYR,1,Primary production 1,Fuel purchases
+14/2/21,Campbells,Tinned tomato soup,USA,0,7051,18,,SGD,1,Food manufacturing 1,COGS
+19/2/21,SP Group,Power invoice,Singapore,0,2076,19,Singapore,SGD,1,Farm 1,Electricity purchases
+19/2/21,SP Group,Power invoice,Singapore,0,3485,20,Singapore,SGD,1,Primary production 1,Electricity purchases
+24/2/21,BP,LNG,Indonesia,0,651680014,21,Tangguh,IDR,1,Primary production 1,Fuel purchases
+25/2/21,Seafood Supplies Pte. Ltd.,Squid tubes,Thailand,0,8105,22,,SGD,1,Food manufacturing 1,COGS
+28/2/21,Union Gas,Liquefied petroleum gas,Singapore,0,1354,23,Singapore,SGD,1,Warehouse 1,Fuel purchases
+2/3/21,Campbells,Tinned tomato soup,USA,0,4287,24,,SGD,1,Food manufacturing 1,COGS
+2/3/21,Seafood Supplies Pte. Ltd.,Basa fillets,Vietnam,0,1385,25,,SGD,1,Food manufacturing 1,COGS
+3/3/21,Meat distributors Pte. Ltd.,Gravy beef,Australia,0,313,26,,SGD,1,Food manufacturing 1,COGS
+7/3/21,Dairy Farm Pte. Ltd.,Mandarins,Israel,0,8553,27,,SGD,1,Food manufacturing 1,COGS
+9/3/21,Cheese Sellers Pte. Ltd.,Gruyere cheese,France,0,5647,28,,SGD,1,Food manufacturing 1,COGS
+14/3/21,Shell,Motor gasoline,Singapore,0,3590,29,Singapore,SGD,1,Warehouse 1,Fuel purchases
+16/3/21,Dairy Farm Pte. Ltd.,Oranges,USA,0,2157,30,,SGD,1,Food manufacturing 1,COGS
+16/3/21,Meat distributors Pte. Ltd.,Ham,Spain,0,6131,31,,SGD,1,Food manufacturing 1,COGS
+20/3/21,SP Group,Power invoice,Singapore,0,2437,32,Singapore,SGD,1,Primary production 1,Electricity purchases
+20/3/21,SP Group,Power invoice,Singapore,0,1967,33,Singapore,SGD,1,Farm 1,Electricity purchases
+25/3/21,Meat distributors Pte. Ltd.,Ham,Spain,0,130,34,,EUR,1,Food manufacturing 1,COGS
+29/3/21,Hot Chocolate Enterprises Pte. Ltd.,Cocoa powder,Ecuador,0,8036,35,,SGD,1,Food manufacturing 1,COGS
+29/3/21,Dairy Farm Pte. Ltd.,Sundowners,Australia,0,8787,36,,SGD,1,Food manufacturing 1,COGS
+30/3/21,Campbells,Tinned tomato soup,USA,0,377,37,,SGD,1,Food manufacturing 1,COGS
+4/4/21,PS Energy,Diesel,Singapore,0,7035,38,Singapore,SGD,1,Farm 1,Fuel purchases
+4/4/21,Meat distributors Pte. Ltd.,Lamb backstrap,Australia,0,6314,39,,SGD,1,Food manufacturing 1,COGS
+7/4/21,Dairy Farm Pte. Ltd.,Mandarins,Israel,0,1337,40,,SGD,1,Food manufacturing 1,COGS
+9/4/21,Fruit Party Pte. Ltd.,Durian,Malaysia,0,1279,41,,SGD,1,Food manufacturing 1,COGS
+14/4/21,Fruit Party Pte. Ltd.,Durian,Malaysia,0,357,42,,SGD,1,Food manufacturing 1,COGS
+17/4/21,Meat distributors Pte. Ltd.,Steak,Australia,0,6245,43,,SGD,1,Food manufacturing 1,COGS
+21/4/21,SP Group,Power invoice,Singapore,0,2647,44,Singapore,SGD,1,Primary production 1,Electricity purchases
+21/4/21,SP Group,Power invoice,Singapore,0,1993,45,Singapore,SGD,1,Farm 1,Electricity purchases
+22/4/21,Seafood Supplies Pte. Ltd.,Squid tubes,Thailand,0,3341,46,,THB,1,Food manufacturing 1,COGS
+22/4/21,Shell,Marine gas oil,Singapore,0,3059,47,Singapore,SGD,1,Warehouse 1,Fuel purchases
+23/4/21,Cheese Sellers Pte. Ltd.,Chevre cheese,Turkey,0,8656,48,,SGD,1,Food manufacturing 1,COGS
+26/4/21,Dairy Farm Pte. Ltd.,Panko bread crumbs,Japan,0,5657,49,,SGD,1,Food manufacturing 1,COGS
+28/4/21,Seafood Supplies Pte. Ltd.,Squid tubes,Thailand,0,916,50,,SGD,1,Food manufacturing 1,COGS
+3/5/21,Fruit Party Pte. Ltd.,Durian,Malaysia,0,2574,51,,SGD,1,Food manufacturing 1,COGS
+3/5/21,Fruit Juice Enterprises,Orange juice,Singapore,0,632,52,,SGD,1,Food manufacturing 1,COGS
+4/5/21,Seafood Supplies Pte. Ltd.,Squid tubes,Thailand,0,577,53,,SGD,1,Food manufacturing 1,COGS
+5/5/21,Meat distributors Pte. Ltd.,Lamb backstrap,Australia,0,4810,54,,SGD,1,Food manufacturing 1,COGS
+7/5/21,BHP,Black coal,Australia,0,32756,55,Newcastle,AUD,1,Farm 1,Fuel purchases
+8/5/21,Fruit Juice Enterprises,Orange juice,Singapore,0,4846,56,,SGD,1,Food manufacturing 1,COGS
+10/5/21,Dairy Farm Pte. Ltd.,Oranges,USA,0,436,57,,USD,1,Food manufacturing 1,COGS
+14/5/21,Cheese Sellers Pte. Ltd.,Gruyere cheese,France,0,2941,58,,EUR,1,Food manufacturing 1,COGS
+15/5/21,Meat distributors Pte. Ltd.,Beef,Brazil,0,2209,59,,SGD,1,Food manufacturing 1,COGS
+15/5/21,SP Group,Power invoice,Singapore,0,2443,60,Singapore,SGD,1,Primary production 1,Electricity purchases
+19/5/21,SP Group,Power invoice,Singapore,0,1987,61,Singapore,SGD,1,Farm 1,Electricity purchases
+24/5/21,Fruit Juice Enterprises,Orange juice,Singapore,0,2866,62,,SGD,1,Food manufacturing 1,COGS
+24/5/21,Glencore,Lignite,Australia,0,56873,63,Melbourne,AUD,1,Primary production 1,Fuel purchases
+26/5/21,Meat distributors Pte. Ltd.,Ham,Spain,0,3342,64,,SGD,1,Food manufacturing 1,COGS
+28/5/21,Meat distributors Pte. Ltd.,Chicken drumsticks,Malaysia,0,2204,65,,SGD,1,Food manufacturing 1,COGS
+31/5/21,Dairy Farm Pte. Ltd.,Artichoke hearts,Italy,0,6316,66,,SGD,1,Food manufacturing 1,COGS
+5/6/21,Hot Chocolate Enterprises Pte. Ltd.,Cocoa powder,Ecuador,0,4319,67,,SGD,1,Food manufacturing 1,COGS
+5/6/21,Mexefeeds Pte. Ltd.,Guacamole,Singapore,0,1384,68,,SGD,1,Food manufacturing 1,COGS
+5/6/21,Coffee Co. Pte. Ltd.,Ground coffee,PNG,0,8808,69,,SGD,1,Food manufacturing 1,COGS
+10/6/21,Meat distributors Pte. Ltd.,Pork belly,Malaysia,0,873,70,,SGD,1,Food manufacturing 1,COGS
+14/6/21,Dairy Farm Pte. Ltd.,Mandarins,Israel,0,7273,71,,SGD,1,Food manufacturing 1,COGS
+14/6/21,Esso,Petrol,Singapore,0,6537,72,Singapore,SGD,1,Warehouse 1,Fuel purchases
+18/6/21,Dairy Farm Pte. Ltd.,Avocadoes,Mexico,0,4473,73,,SGD,1,Food manufacturing 1,COGS
+19/6/21,SP Group,Power invoice,Singapore,0,2798,74,Singapore,SGD,1,Primary production 1,Electricity purchases
+19/6/21,SP Group,Power invoice,Singapore,0,2135,75,Singapore,SGD,1,Farm 1,Electricity purchases
+21/6/21,Mexefeeds Pte. Ltd.,Guacamole,Singapore,0,7323,76,,SGD,1,Food manufacturing 1,COGS
+23/6/21,Dairy Farm Pte. Ltd.,Avocadoes,Mexico,0,3586,77,,SGD,1,Food manufacturing 1,COGS
+28/6/21,Meat distributors Pte. Ltd.,Pork belly,Malaysia,0,1313,78,,SGD,1,Food manufacturing 1,COGS
+30/6/21,Dairy Farm Pte. Ltd.,Green apple,Australia,0,4664,79,,SGD,1,Food manufacturing 1,COGS
+1/7/21,Shell,Gasoline,Singapore,0,134,80,Singapore,SGD,1,Warehouse 1,Fuel purchases
+3/7/21,Meat distributors Pte. Ltd.,Steak,Australia,0,2035,81,,SGD,1,Food manufacturing 1,COGS
+6/7/21,Fruit Party Pte. Ltd.,Durian,Malaysia,0,2445,82,,SGD,1,Food manufacturing 1,COGS
+6/7/21,Meat distributors Pte. Ltd.,Pork belly,Malaysia,0,4608,83,,SGD,1,Food manufacturing 1,COGS
+9/7/21,Seafood Supplies Pte. Ltd.,Squid tubes,Thailand,0,3407,84,,SGD,1,Food manufacturing 1,COGS
+10/7/21,Campbells,Tinned tomato soup,USA,0,6099,85,,SGD,1,Food manufacturing 1,COGS
+10/7/21,Cheese Sellers Pte. Ltd.,Chevre cheese,Turkey,0,2013,86,,SGD,1,Food manufacturing 1,COGS
+15/7/21,Fruit Juice Enterprises,Orange juice,Singapore,0,2748,87,,SGD,1,Food manufacturing 1,COGS
+16/7/21,Coffee Co. Pte. Ltd.,Ground coffee,PNG,0,4580,88,,SGD,1,Food manufacturing 1,COGS
+21/7/21,SP Group,Power invoice,Singapore,0,1876,89,Singapore,SGD,1,Primary production 1,Electricity purchases
+22/7/21,SP Group,Power invoice,Singapore,0,2967,90,Singapore,SGD,1,Farm 1,Electricity purchases
+26/7/21,Dairy Farm Pte. Ltd.,Artichoke hearts,Italy,0,1155,91,,SGD,1,Food manufacturing 1,COGS
+26/7/21,Union Gas,LPG,Singapore,0,3769,92,,SGD,1,Warehouse 1,Fuel purchases
+29/7/21,BP,LNG,Indonesia,0,75013426873,93,Tangguh,IDR,1,Primary production 1,Fuel purchases
+29/7/21,Petronas,Natural gas,Malaysia,0,37963,94,Kuala Lumpur,MYR,1,Primary production 1,Fuel purchases
+29/7/21,City Gas,Town gas,Singapore,0,8664,95,Singapore,SGD,1,Restaurant 1,Fuel purchases
+29/7/21,Fruit Juice Enterprises,Orange juice,Singapore,0,2194,96,,SGD,1,Food manufacturing 1,COGS
+30/7/21,Meat distributors Pte. Ltd.,Pork belly,Malaysia,0,6853,97,,SGD,1,Food manufacturing 1,COGS
+31/7/21,Mexefeeds Pte. Ltd.,Guacamole,Singapore,0,5291,98,,SGD,1,Food manufacturing 1,COGS
+2/8/21,Meat distributors Pte. Ltd.,Beef,Brazil,0,4409,99,,SGD,1,Food manufacturing 1,COGS
+7/8/21,Fruit Juice Enterprises,Orange juice,Singapore,0,8654,100,,SGD,1,Food manufacturing 1,COGS
+8/8/21,PS Energy,Diesel,Singapore,0,3175,101,,SGD,1,Warehouse 1,Fuel purchases
+10/8/21,Meat distributors Pte. Ltd.,Beef,Brazil,0,182,102,,SGD,1,Food manufacturing 1,COGS
+11/8/21,Fruit Juice Enterprises,Orange juice,Singapore,0,6132,103,,SGD,1,Food manufacturing 1,COGS
+11/8/21,Fruit Party Pte. Ltd.,Durian,Malaysia,0,2110,104,,SGD,1,Food manufacturing 1,COGS
+16/8/21,Meat distributors Pte. Ltd.,Lamb,Australia,0,5819,105,,SGD,1,Food manufacturing 1,COGS
+16/8/21,Meat distributors Pte. Ltd.,Lamb backstrap,Australia,0,5713,106,,SGD,1,Food manufacturing 1,COGS
+21/8/21,SP Group,Power invoice,Singapore,0,2149,107,,SGD,1,Primary production 1,Electricity purchases
+24/8/21,SP Group,Power invoice,Singapore,0,2763,108,,SGD,1,Farm 1,Electricity purchases
+27/8/21,Cheese Sellers Pte. Ltd.,Gruyere cheese,France,0,706,109,,SGD,1,Food manufacturing 1,COGS
+27/8/21,Fruit Juice Enterprises,Orange juice,Singapore,0,1683,110,,SGD,1,Food manufacturing 1,COGS
+31/8/21,PS Energy,Marine gas oil,Singapore,0,16873,111,,SGD,1,Warehouse 1,Fuel purchases
+31/8/21,Dairy Farm Pte. Ltd.,Sundowners,Australia,0,7564,112,,SGD,1,Food manufacturing 1,COGS
+31/8/21,Dairy Farm Pte. Ltd.,Green apple,Australia,0,4694,113,,SGD,1,Food manufacturing 1,COGS
+31/8/21,Meat distributors Pte. Ltd.,Lamb backstrap,Australia,0,3795,114,,SGD,1,Food manufacturing 1,COGS
+3/9/21,Meat distributors Pte. Ltd.,Ham,Spain,0,3731,115,,SGD,1,Food manufacturing 1,COGS
+7/9/21,Dairy Farm Pte. Ltd.,Panko bread crumbs,Japan,0,4129,116,,SGD,1,Food manufacturing 1,COGS
+12/9/21,Meat distributors Pte. Ltd.,Steak,Australia,0,3698,117,,SGD,1,Food manufacturing 1,COGS
+14/9/21,Fruit Juice Enterprises,Orange juice,Singapore,0,720,118,,SGD,1,Primary production 1,Electricity purchases
+17/9/21,SP Group,Power invoice,Singapore,0,1376,119,,SGD,1,Farm 1,Electricity purchases
+20/9/21,SP Group,Power invoice,Singapore,0,3867,120,,SGD,1,Food manufacturing 1,COGS
+23/9/21,Dairy Farm Pte. Ltd.,Sundowners,Australia,0,7832,121,,SGD,1,Food manufacturing 1,COGS
+28/9/21,Cheese Sellers Pte. Ltd.,Chevre cheese,Turkey,0,4903,122,,SGD,1,Food manufacturing 1,COGS
+28/9/21,Fruit Party Pte. Ltd.,Durian,Malaysia,0,6062,123,,SGD,1,Food manufacturing 1,COGS
+2/10/21,BHP,Black coal,Australia,0,12143,124,Newcastle,AUD,1,Farm 1,Fuel purchases
+7/10/21,Cheese Sellers Pte. Ltd.,Gruyere cheese,France,0,6012,125,,SGD,1,Food manufacturing 1,COGS
+12/10/21,Cheese Sellers Pte. Ltd.,Chevre cheese,Turkey,0,5905,126,,SGD,1,Food manufacturing 1,COGS
+13/10/21,Hot Chocolate Enterprises Pte. Ltd.,Cocoa powder,Ecuador,0,8139,127,,SGD,1,Food manufacturing 1,COGS
+13/10/21,Fruit Juice Enterprises,Orange juice,Singapore,0,6277,128,,SGD,1,Food manufacturing 1,COGS
+16/10/21,Union Gas,LPG,Singapore,0,197,129,,SGD,1,Warehouse 1,Fuel purchases
+20/10/21,SP Group,Power invoice,Singapore,0,3468,130,,SGD,1,Primary production 1,Electricity purchases
+25/10/21,SP Group,Power invoice,Singapore,0,1764,131,,SGD,1,Farm 1,Electricity purchases
+27/10/21,Fruit Party Pte. Ltd.,Durian,Malaysia,0,7949,132,,SGD,1,Food manufacturing 1,COGS
+29/10/21,Mexefeeds Pte. Ltd.,Guacamole,Singapore,0,5042,133,,SGD,1,Food manufacturing 1,COGS
+3/11/21,Dairy Farm Pte. Ltd.,Mandarins,Israel,0,1614,134,,SGD,1,Food manufacturing 1,COGS
+6/11/21,Campbells,Tinned tomato soup,USA,0,3103,135,,SGD,1,Food manufacturing 1,COGS
+7/11/21,Dairy Farm Pte. Ltd.,Sundowners,Australia,0,6504,136,,SGD,1,Food manufacturing 1,COGS
+8/11/21,Dairy Farm Pte. Ltd.,Artichoke hearts,Italy,0,626,137,,SGD,1,Food manufacturing 1,COGS
+10/11/21,Meat distributors Pte. Ltd.,Pork belly,Malaysia,0,6570,138,,SGD,1,Food manufacturing 1,COGS
+12/11/21,Union Gas,LPG,Singapore,0,3218,139,,SGD,1,Warehouse 1,Fuel purchases
+12/11/21,Dairy Farm Pte. Ltd.,Green apple,Australia,0,1830,140,,SGD,1,Food manufacturing 1,COGS
+12/11/21,Cheese Sellers Pte. Ltd.,Chevre cheese,Turkey,0,1941,141,,SGD,1,Food manufacturing 1,COGS
+16/11/21,Seafood Supplies Pte. Ltd.,Basa fillets,Vietnam,0,2948,142,,SGD,1,Food manufacturing 1,COGS
+16/11/21,SP Group,Power invoice,Singapore,0,1173,143,,SGD,1,Primary production 1,Electricity purchases
+21/11/21,SP Group,Power invoice,Singapore,0,3796,144,,SGD,1,Farm 1,Electricity purchases
+26/11/21,Petronas,LNG,Malaysia,0,38963,145,,MYR,1,Primary production 1,Fuel purchases
+29/11/21,Dairy Farm Pte. Ltd.,Green apple,Australia,0,2832,146,,SGD,1,Food manufacturing 1,COGS
+29/11/21,Dairy Farm Pte. Ltd.,Green apple,Australia,0,5055,147,,SGD,1,Food manufacturing 1,COGS
+29/11/21,Dairy Farm Pte. Ltd.,Avocadoes,Mexico,0,2402,148,,SGD,1,Food manufacturing 1,COGS
+1/12/21,Hot Chocolate Enterprises Pte. Ltd.,Cocoa powder,Ecuador,0,278,149,,SGD,1,Food manufacturing 1,COGS
+2/12/21,Dairy Farm Pte. Ltd.,Panko bread crumbs,Japan,0,3612,150,,SGD,1,Food manufacturing 1,COGS
+2/12/21,Petronas,Natural gas,Malaysia,0,23966,151,,MYR,1,Primary production 1,Fuel purchases
+4/12/21,Fruit Juice Enterprises,Orange juice,Singapore,0,7927,152,,SGD,1,Food manufacturing 1,COGS
+9/12/21,Fruit Juice Enterprises,Orange juice,Singapore,0,1776,153,,SGD,1,Food manufacturing 1,COGS
+12/12/21,Meat distributors Pte. Ltd.,Lamb backstrap,Australia,0,7173,154,,SGD,1,Food manufacturing 1,COGS
+16/12/21,Meat distributors Pte. Ltd.,Steak,Australia,0,3829,155,,SGD,1,Food manufacturing 1,COGS
+19/12/21,SP Group,Power invoice,Singapore,0,2734,156,,SGD,1,Primary production 1,Electricity purchases
+22/12/21,SP Group,Power invoice,Singapore,0,1675,157,,SGD,1,Farm 1,Electricity purchases
+24/12/21,Dairy Farm Pte. Ltd.,Artichoke hearts,Italy,0,4573,158,,SGD,1,Food manufacturing 1,COGS
+24/12/21,Union Gas,LPG,Singapore,0,1769,159,,SGD,1,Warehouse 1,Fuel purchases
+26/12/21,Hot Chocolate Enterprises Pte. Ltd.,Cocoa powder,Ecuador,0,173,160,,SGD,1,Food manufacturing 1,COGS
+31/12/21,Fruit Juice Enterprises,Orange juice,Singapore,0,937,161,,SGD,1,Food manufacturing 1,COGS
