@@ -1,39 +1,41 @@
 import pandas as pd
-import numpy as np
-
-
-def convert_to_usd(orginal_price, factor):
-	converted_price = 0
-	return converted_price
-
 
 currency_df = pd.read_csv('Currency2Year.csv')
 dict_of_currencies = dict(iter(currency_df.groupby('Currency')))
-# print(dict_of_currencies.keys())
-# print(dict_of_currencies['AUD']['Date'])
-currency_date_df = pd.to_datetime(dict_of_currencies['AUD']['Date'])
-# print(currency_date_df)
 
-# for txn_df in pd.read_csv('DummyTransactions.csv', chunksize=1):
-txn_df = pd.read_csv('DummyTransactions.csv', nrows=1)
-txn_date_df = pd.to_datetime(txn_df['Transaction Date'])
-# print(txn_date_df[0])
 
-# dat = currency_date_df.truncate(before=txn_date_df[0])
-# print(dat)
-for i, v in enumerate(currency_date_df, start=currency_date_df.index[0]):
-	if v < txn_date_df[0]:
-		continue
+def convert_to_usd(original_price, factor):
+	# converted_price = round(orginal_price * factor, 2)
+	converted_price = original_price * factor
+	return converted_price
+
+
+def find_closest_date(txn):
+	txn_currency = txn['Currency'].iloc[0]
+
+	if txn_currency == 'USD':
+		return txn
+
+	currency_date_df = pd.DataFrame.from_dict(dict_of_currencies[txn_currency])
+	currency_date_df['Date'] = pd.to_datetime(currency_date_df['Date'])
+	txn_date_df = pd.to_datetime(txn_df['Transaction Date'])
+
+	location = currency_date_df['Date'].searchsorted(txn_date_df, side='left')
+
+	if currency_date_df['Date'][location[0] + currency_date_df['Date'].head(1).index.item()] > txn_date_df.iloc[0]:
+		row = location[0] - 1 + currency_date_df['Date'].head(1).index.item()
 	else:
-		print(txn_date_df[0])
-		print(currency_date_df[i])
-		print(currency_date_df[i - 1])
-		break
+		row = location[0] + currency_date_df['Date'].head(1).index.item()
 
-# df = currency_date_df.truncate(before=txn_date_df['Transaction Date'])
-# df = pd.merge_asof(currency_date_df, txn_date_df, left_on='Date', right_on='Transaction Date')
-# print(df)
+	txn_df['Transaction amount'] = convert_to_usd(txn_df['Transaction amount'].iloc[0], currency_date_df['Factor'][row])
+	txn_df['Currency'] = 'USD'
+
+	return txn_df
 
 
+headers = pd.read_csv('DummyTransactions.csv', index_col=0, nrows=0)
+headers.to_csv("ModifiedDummy.csv", encoding='utf-8')
 
-
+for txn_df in pd.read_csv('DummyTransactions.csv', chunksize=1):
+	converted_df = find_closest_date(txn_df)
+	converted_df.to_csv("ModifiedDummy.csv", mode='a', header=None, encoding='utf-8')
